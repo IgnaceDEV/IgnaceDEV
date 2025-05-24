@@ -1,20 +1,22 @@
 {
-    "name": "Gemini PWA",
-    "short_name": "Gemini",
+    "name": "Gemini Redirect PWA",
+    "short_name": "GeminiR",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
     "icons": [
         {
-            "src": "images/icon-192x192.png",
+            "src": "https://sdmntprwestus2.oaiusercontent.com/files/00000000-3b28-61f8-879c-625e4397dde6/raw?se=2025-05-24T17%3A58%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=afaf6825-760f-582d-b123-651aba957aca&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-24T01%3A41%3A22Z&ske=2025-05-25T01%3A41%3A22Z&sks=b&skv=2024-08-04&sig=yH5PjJV%2BKQ7a%2BXuJvBUw6LsEEmvzO%2Biih61fkzqiCp0%3D",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         },
         {
-            "src": "images/icon-512x512.png",
+            "src": "https://sdmntprwestus2.oaiusercontent.com/files/00000000-3b28-61f8-879c-625e4397dde6/raw?se=2025-05-24T17%3A58%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=afaf6825-760f-582d-b123-651aba957aca&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-24T01%3A41%3A22Z&ske=2025-05-25T01%3A41%3A22Z&sks=b&skv=2024-08-04&sig=yH5PjJV%2BKQ7a%2BXuJvBUw6LsEEmvzO%2Biih61fkzqiCp0%3D",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ]
 }
